@@ -9,6 +9,7 @@
 	- [app.js](#app.js)
 	- [styles.css](#styles.css)
 - [Run](#run)
+- [Live Demo](#live-demo)
 
 ## Description
 
@@ -39,6 +40,10 @@ Holds the JavaScript JavaScript responsible for building the navbar automaticall
 
 Contains the  rules governing the page animation and styling.
 
-## Run 
+## Run
 
 To launch the landing page, open the `index.html` file in your favorite browser.
+
+## Live Demo
+
+[Click Here](https://mohamedel-khouly.github.io/Landing_Page/) for a live demo of the landing page.
